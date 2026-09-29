@@ -4,7 +4,7 @@ out a little too much.
 
 I believe in open source software, and like to lend a hand in building the tools I rely on.
 
-Here's what I've got so far:
+Here's where I've been playing:
 
 | | Project | What | Status |
 |:-:|---|---|:-:|
