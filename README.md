@@ -2,7 +2,7 @@
 I do a lot of work in Go and Python.  I probably like the way that microservices are laid
 out a little too much.
 
-I believe in open source software, and like to lend a hand in building the tools I rely on.
+I believe in open source software, and like to lend a hand in building and maintaining the tools I rely on.
 
 Here's where I've been playing:
 
